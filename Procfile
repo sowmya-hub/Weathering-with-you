@@ -1,0 +1,1 @@
+web gunicorn weatheringwithyou.wsgi:application --log-file - 
